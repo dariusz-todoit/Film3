@@ -32,7 +32,7 @@ public class FilmServlet extends HttpServlet {
     
    
     
-    /*
+    
     
     result = result + "\n\n Criteria API";
     
@@ -40,7 +40,7 @@ public class FilmServlet extends HttpServlet {
       result = result + "\n " + n.noteId + " " + n.note;
     } 
     
-    */
+    
         
     response.getWriter().append(result);
 	}
