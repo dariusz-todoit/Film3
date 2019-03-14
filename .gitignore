@@ -41,3 +41,5 @@ rpcPolicyManifest
 .metadata
 RemoteSystemsTempFiles
 notes.csv
+
+apache-ant*
